@@ -55,3 +55,11 @@ table {
     font-size: 14px;
     background-color: #f2f2f2;
 }
+
+#topbar {
+	float:right;
+}
+
+.leftside {
+	display: inline;
+}
